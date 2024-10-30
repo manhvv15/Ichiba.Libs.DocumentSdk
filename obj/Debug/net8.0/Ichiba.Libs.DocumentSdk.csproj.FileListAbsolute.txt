@@ -1,0 +1,13 @@
+D:\Projects\ichiba.vn\ichiba-share\Ichiba.Libs.DocumentSdk\bin\Debug\net8.0\Ichiba.Libs.DocumentSdk.deps.json
+D:\Projects\ichiba.vn\ichiba-share\Ichiba.Libs.DocumentSdk\bin\Debug\net8.0\Ichiba.Libs.DocumentSdk.dll
+D:\Projects\ichiba.vn\ichiba-share\Ichiba.Libs.DocumentSdk\bin\Debug\net8.0\Ichiba.Libs.DocumentSdk.pdb
+D:\Projects\ichiba.vn\ichiba-share\Ichiba.Libs.DocumentSdk\obj\Debug\net8.0\Ichiba.Libs.DocumentSdk.csproj.AssemblyReference.cache
+D:\Projects\ichiba.vn\ichiba-share\Ichiba.Libs.DocumentSdk\obj\Debug\net8.0\Ichiba.Libs.DocumentSdk.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ichiba.vn\ichiba-share\Ichiba.Libs.DocumentSdk\obj\Debug\net8.0\Ichiba.Libs.DocumentSdk.AssemblyInfoInputs.cache
+D:\Projects\ichiba.vn\ichiba-share\Ichiba.Libs.DocumentSdk\obj\Debug\net8.0\Ichiba.Libs.DocumentSdk.AssemblyInfo.cs
+D:\Projects\ichiba.vn\ichiba-share\Ichiba.Libs.DocumentSdk\obj\Debug\net8.0\Ichiba.Libs.DocumentSdk.csproj.CoreCompileInputs.cache
+D:\Projects\ichiba.vn\ichiba-share\Ichiba.Libs.DocumentSdk\obj\Debug\net8.0\Ichiba.Libs.DocumentSdk.sourcelink.json
+D:\Projects\ichiba.vn\ichiba-share\Ichiba.Libs.DocumentSdk\obj\Debug\net8.0\Ichiba.Libs.DocumentSdk.dll
+D:\Projects\ichiba.vn\ichiba-share\Ichiba.Libs.DocumentSdk\obj\Debug\net8.0\refint\Ichiba.Libs.DocumentSdk.dll
+D:\Projects\ichiba.vn\ichiba-share\Ichiba.Libs.DocumentSdk\obj\Debug\net8.0\Ichiba.Libs.DocumentSdk.pdb
+D:\Projects\ichiba.vn\ichiba-share\Ichiba.Libs.DocumentSdk\obj\Debug\net8.0\ref\Ichiba.Libs.DocumentSdk.dll

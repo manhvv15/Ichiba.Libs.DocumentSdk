@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Ichiba.Libs.DocumentSdk</id>
+    <version>2.0.298-beta01</version>
+    <authors>Ichiba.Libs.DocumentSdk</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Package Description</description>
+    <repository type="git" url="https://bitbucket.org/janbox/ichiba-share" commit="a2c506eae6c2a83b3f6d05dafd74b0aad6f3aa9e" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Aspose.Cells" version="21.1.0" exclude="Build,Analyzers" />
+        <dependency id="Cronos" version="0.8.4" exclude="Build,Analyzers" />
+        <dependency id="Dapr.Actors" version="1.13.0" exclude="Build,Analyzers" />
+        <dependency id="Dapr.AspNetCore" version="1.13.0" exclude="Build,Analyzers" />
+        <dependency id="EFCore.NamingConventions" version="8.0.3" exclude="Build,Analyzers" />
+        <dependency id="FastMember" version="1.5.0" exclude="Build,Analyzers" />
+        <dependency id="IdentityModel" version="6.2.0" exclude="Build,Analyzers" />
+        <dependency id="MediatR" version="12.2.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Authentication.JwtBearer" version="8.0.3" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.DataProtection.Abstractions" version="8.0.3" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.DataProtection.StackExchangeRedis" version="8.0.3" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Mvc.Abstractions" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Mvc.Core" version="2.2.5" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Caching.Abstractions" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Caching.Memory" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Binder" version="8.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="8.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Features" version="8.0.3" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Hosting.Abstractions" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Http" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Http.Polly" version="8.0.3" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Logging.Abstractions" version="8.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Primitives" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.IdentityModel.JsonWebTokens" version="7.5.0" exclude="Build,Analyzers" />
+        <dependency id="MiniExcel" version="1.34.1" exclude="Build,Analyzers" />
+        <dependency id="NJsonSchema" version="11.0.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+        <dependency id="OpenTelemetry" version="1.9.0" exclude="Build,Analyzers" />
+        <dependency id="OpenTelemetry.Exporter.Console" version="1.9.0" exclude="Build,Analyzers" />
+        <dependency id="OpenTelemetry.Exporter.OpenTelemetryProtocol" version="1.9.0" exclude="Build,Analyzers" />
+        <dependency id="OpenTelemetry.Exporter.OpenTelemetryProtocol.Logs" version="1.5.0-rc.1" exclude="Build,Analyzers" />
+        <dependency id="OpenTelemetry.Exporter.Prometheus.AspNetCore" version="1.9.0-beta.2" exclude="Build,Analyzers" />
+        <dependency id="OpenTelemetry.Extensions" version="1.0.0-beta.5" exclude="Build,Analyzers" />
+        <dependency id="OpenTelemetry.Extensions.Hosting" version="1.9.0" exclude="Build,Analyzers" />
+        <dependency id="OpenTelemetry.Instrumentation.AspNetCore" version="1.9.0" exclude="Build,Analyzers" />
+        <dependency id="OpenTelemetry.Instrumentation.EntityFrameworkCore" version="1.0.0-beta.10" exclude="Build,Analyzers" />
+        <dependency id="OpenTelemetry.Instrumentation.EventCounters" version="1.5.1-alpha.1" exclude="Build,Analyzers" />
+        <dependency id="OpenTelemetry.Instrumentation.Http" version="1.9.0" exclude="Build,Analyzers" />
+        <dependency id="OpenTelemetry.Instrumentation.Process" version="0.5.0-beta.4" exclude="Build,Analyzers" />
+        <dependency id="OpenTelemetry.Instrumentation.Runtime" version="1.9.0" exclude="Build,Analyzers" />
+        <dependency id="OpenTelemetry.Instrumentation.StackExchangeRedis" version="1.0.0-rc9.13" exclude="Build,Analyzers" />
+        <dependency id="Polly" version="8.3.1" exclude="Build,Analyzers" />
+        <dependency id="Polly.Extensions.Http" version="3.0.0" exclude="Build,Analyzers" />
+        <dependency id="RedLock.net" version="2.3.2" exclude="Build,Analyzers" />
+        <dependency id="RestEase.HttpClientFactory" version="1.6.4" exclude="Build,Analyzers" />
+        <dependency id="Scrutor" version="4.2.2" exclude="Build,Analyzers" />
+        <dependency id="StackExchange.Redis" version="2.8.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Projects\ichiba.vn\ichiba-share\Ichiba.Libs.DocumentSdk\bin\Debug\net8.0\Ichiba.Libs.DocumentSdk.pdb" target="lib\net8.0\Ichiba.Libs.DocumentSdk.pdb" />
+  </files>
+</package>
