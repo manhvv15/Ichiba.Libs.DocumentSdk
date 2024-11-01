@@ -11,3 +11,16 @@ D:\Projects\ichiba.vn\ichiba-share\Ichiba.Libs.DocumentSdk\obj\Debug\net8.0\Ichi
 D:\Projects\ichiba.vn\ichiba-share\Ichiba.Libs.DocumentSdk\obj\Debug\net8.0\refint\Ichiba.Libs.DocumentSdk.dll
 D:\Projects\ichiba.vn\ichiba-share\Ichiba.Libs.DocumentSdk\obj\Debug\net8.0\Ichiba.Libs.DocumentSdk.pdb
 D:\Projects\ichiba.vn\ichiba-share\Ichiba.Libs.DocumentSdk\obj\Debug\net8.0\ref\Ichiba.Libs.DocumentSdk.dll
+C:\Users\hp\Downloads\Ichiba.Libs.DocumentSdk\Ichiba.Libs.DocumentSdk\obj\Debug\net8.0\Ichiba.Libs.DocumentSdk.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\Ichiba.Libs.DocumentSdk\Ichiba.Libs.DocumentSdk\obj\Debug\net8.0\Ichiba.Libs.DocumentSdk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\Ichiba.Libs.DocumentSdk\Ichiba.Libs.DocumentSdk\obj\Debug\net8.0\Ichiba.Libs.DocumentSdk.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\Ichiba.Libs.DocumentSdk\Ichiba.Libs.DocumentSdk\obj\Debug\net8.0\Ichiba.Libs.DocumentSdk.AssemblyInfo.cs
+C:\Users\hp\Downloads\Ichiba.Libs.DocumentSdk\Ichiba.Libs.DocumentSdk\obj\Debug\net8.0\Ichiba.Libs.DocumentSdk.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\Ichiba.Libs.DocumentSdk\Ichiba.Libs.DocumentSdk\obj\Debug\net8.0\Ichiba.Libs.DocumentSdk.sourcelink.json
+C:\Users\hp\Downloads\Ichiba.Libs.DocumentSdk\Ichiba.Libs.DocumentSdk\bin\Debug\net8.0\Ichiba.Libs.DocumentSdk.deps.json
+C:\Users\hp\Downloads\Ichiba.Libs.DocumentSdk\Ichiba.Libs.DocumentSdk\bin\Debug\net8.0\Ichiba.Libs.DocumentSdk.dll
+C:\Users\hp\Downloads\Ichiba.Libs.DocumentSdk\Ichiba.Libs.DocumentSdk\bin\Debug\net8.0\Ichiba.Libs.DocumentSdk.pdb
+C:\Users\hp\Downloads\Ichiba.Libs.DocumentSdk\Ichiba.Libs.DocumentSdk\obj\Debug\net8.0\Ichiba.Libs.DocumentSdk.dll
+C:\Users\hp\Downloads\Ichiba.Libs.DocumentSdk\Ichiba.Libs.DocumentSdk\obj\Debug\net8.0\refint\Ichiba.Libs.DocumentSdk.dll
+C:\Users\hp\Downloads\Ichiba.Libs.DocumentSdk\Ichiba.Libs.DocumentSdk\obj\Debug\net8.0\Ichiba.Libs.DocumentSdk.pdb
+C:\Users\hp\Downloads\Ichiba.Libs.DocumentSdk\Ichiba.Libs.DocumentSdk\obj\Debug\net8.0\ref\Ichiba.Libs.DocumentSdk.dll
